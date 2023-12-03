@@ -33,7 +33,7 @@ export default function RootLayout({
               <Link href={"/"} className="flex items-center gap-3">
                 <Image src={couch} alt="couch" width={50} height={50} />
                 <h3 className="text-white md:text-3xl text-2xl font-bold">
-                  <span className="text-blue-900">Aksi Aksi</span> Room AI
+                  <span className="text-blue-900">Action</span> Room AI
                 </h3>
               </Link>
               <UserInf />
